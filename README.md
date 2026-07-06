@@ -21,13 +21,9 @@ A simple and responsive GPA & CGPA Calculator built using **HTML, CSS, and JavaS
 - JavaScript (Vanilla JS)
 - LocalStorage
 
-## Screenshots
-
-> Add screenshots here
-
 ## Live Demo
 
-> Add your deployed Netlify/GitHub Pages link here
+> [Live DEMO of CGPA Calculator](https://hemanth-cgpacalculator.netlify.app/)
 
 ## Installation
 
