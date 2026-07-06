@@ -28,7 +28,7 @@ A simple and responsive GPA & CGPA Calculator built using **HTML, CSS, and JavaS
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/GPA-CGPA-Calculator.git
+git clone https://github.com/Hemanthsai456/GPA-CGPA-Calculator.git
 ```
 
 Open `index.html` in your browser.
